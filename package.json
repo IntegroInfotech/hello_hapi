@@ -4,7 +4,7 @@
   "description": "Sales Eggs directly from Mahoti Farms to Bangalore Apartments",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon awesomegg.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kelvin Dsouza A L - integro infotech and consulting",
